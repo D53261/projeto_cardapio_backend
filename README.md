@@ -83,8 +83,7 @@ Este é um projeto de **Cardápio Digital**, desenvolvido com o objetivo de gere
 - **DELETE** `/food/{id}`: Exclui um alimento pelo ID.
 
 ## Feito por:
-
-- **Danilo Ribeiro**  
-  - [LinkedIn](https://www.linkedin.com/in/danilo-ribeiro-catroli-da-silva/)  
-  - **Email**: danilo051007@gmail.com
+### Danilo Ribeiro 
+### Linkedin: https://www.linkedin.com/in/danilo-ribeiro-catroli-da-silva/
+### Email: danilo051007@gmail.com
 
