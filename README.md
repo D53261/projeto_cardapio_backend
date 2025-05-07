@@ -1,6 +1,6 @@
 # Cardápio Digital
 
-Este é um projeto de **Cardápio Digital**, desenvolvido com o objetivo de gerenciar categorias e itens de um cardápio, permitindo operações como criação, listagem e exclusão de categorias e alimentos. A parte relacionada a categorias foi uma ideia adicional para tornar a aplicação mais fiel a um cardápio real, aprimorando o projeto com os conhecimentos adquiridos.
+Este é um projeto de **Cardápio Digital**, desenvolvido com o objetivo de gerenciar categorias e itens de um cardápio, permitindo operações como criação, listagem e exclusão de categorias e alimentos. A parte relacionada a categorias foi uma ideia adicional para tornar a aplicação mais fiel a um cardápio real, aprimorando o projeto com os conhecimentos adquiridos. Tal Back-end se conecta com um front end React Vite que está em outro repositório deste perfil.
 
 ## Funcionalidades
 
