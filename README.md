@@ -68,7 +68,13 @@ Este é um projeto de **Cardápio Digital**, desenvolvido com o objetivo de gere
    docker-compose up --build
    ```
 
-3. O projeto estará disponível em: [http://localhost:8080](http://localhost:8080).
+3. Em seguida rode o projeto:
+   ```bash
+   ./mvnw spring-boot:run
+   ```
+
+4. O projeto estará disponível em: [http://localhost:8080](http://localhost:8080).
+
 
 ## Endpoints Disponíveis
 
